@@ -67,8 +67,7 @@ $(function() {
     //checks if feed has entries
 
     it('has entries in feed', function() {
-      let feedContainer = document.querySelector('div.feed');
-      expect(feedContainer.children.length).toBeGreaterThan(0);
+      expect($('.feed .entry').length).toBeGreaterThan(0);
     });
 
   }); //end Initial Entries test suite
