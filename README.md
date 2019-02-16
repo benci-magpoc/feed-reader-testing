@@ -4,6 +4,7 @@
 
 * [Description](#description)
 * [Project Overview](#project-overview)
+* [Steps to Run](#steps-to-run)
 * [Contributor](#contributor)
 * [Dependencies](#dependencies)
 
@@ -22,6 +23,10 @@ There are four test suites written in Jasmine.
 - **Initial Entries test suite** - this test suite checks if there is an entry in the feed container.
 
 - **New Feed Selection test suite** - this test suite tests to see if the content is updated properly.
+
+## Steps to Run
+
+Download or clone this repository to your computer. Once the files are unzipped, run the index.html file in order to run this project. 
 
 ## Contributor
 
