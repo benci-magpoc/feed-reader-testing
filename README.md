@@ -26,7 +26,9 @@ There are four test suites written in Jasmine.
 
 ## Steps to Run
 
-Download or clone this repository to your computer. Once the files are unzipped, run the index.html file in order to run this project. 
+- Download or clone this repository to your computer using git clone https://github.com/benci-magpoc/feed-reader-testing.git
+
+- Once the files are unzipped, run the index.html file and it should run on your browser.
 
 ## Contributor
 
